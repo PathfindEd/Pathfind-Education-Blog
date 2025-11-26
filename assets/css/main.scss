@@ -1,0 +1,16 @@
+---
+# Front matter is required in this file for Jekyll to process it as Sass.
+---
+
+/*
+ * This file overrides the default Minimal Mistakes theme's main.scss file.
+ * It manually imports the local custom skin variables before importing
+ * the rest of the theme's files.
+ */
+
+// 1. Import the custom skin variables from your local _sass/skins/ folder.
+// Note: We use the relative path "skins/custom" which the Sass compiler can find.
+@import "skins/custom";
+
+// 2. Import the main Minimal Mistakes framework to apply the custom variables.
+@import "minimal-mistakes";

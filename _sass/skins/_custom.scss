@@ -1,0 +1,29 @@
+/*
+  Custom skin file to implement the requested dark blue color (#112649).
+*/
+
+// CRITICAL FIX: To properly create a new skin, we must import the full default skin.
+// This ensures all necessary variables are defined correctly before overriding.
+@import "minimal-mistakes/skins/default";
+
+// --- CUSTOM COLOR DEFINITIONS ---
+
+// Define the primary brand color: #112649
+$primary-color: #112649;
+
+// Link color usually matches the primary color
+$link-color: $primary-color;
+
+// Accent color (used for hover effects, etc.)
+// We use a lighter shade of your blue for visual contrast
+$accent-color: lighten($primary-color, 15%);
+
+// Background color for site navigation/header
+$nav-color: $primary-color;
+$nav-background-color: $primary-color;
+
+// Button color
+$btn-primary-color: $primary-color;
+
+// Ensures good readability of text against the main background
+$text-color: #333;

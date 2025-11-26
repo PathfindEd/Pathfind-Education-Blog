@@ -37,7 +37,7 @@ highlighter: rouge
 permalink: /:categories/:title/
 
 # Theme Declaration (Must match the gem name in your Gemfile)
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins (MANDATORY for Minimal Mistakes functionality)
 plugins:

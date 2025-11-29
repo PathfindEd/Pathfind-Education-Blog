@@ -1,63 +1,72 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, **please restart the server process.**
-#
-# Site settings
-# These are used to personalize your new site.
-title: Pathfind Education
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+Site Settings
 
-# -----------------------------------------------------------------------------
-# MINIMAL MISTAKES THEME CONFIGURATION (REQUIRED)
-# -----------------------------------------------------------------------------
+Replace 'minimal-mistakes-jekyll' with the username/repo for the remote_theme line
 
-# This is set to "custom" to load the variables from _sass/skins/_custom.scss
-minimal_mistakes_skin: "custom"
-locale: "en-US"
-# The logo setting has been removed as requested.
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+title: Pathfind Education Blog
+tagline: 'Expert, cost-free guidance for study abroad.'
+locale: en-US
+repository: "Pathfind-Education-Blog" # Change this to your actual GitHub repo name
+url: "https://www.google.com/search?q=https://yourusername.github.io/Pathfind-Education-Blog" # Set your domain here
+baseurl: "/Pathfind-Education-Blog" # Use "" if deploying to root domain (e.g., pathfindeducation.com)
 
-# Build settings
-# Minimal Mistakes requires 'kramdown' for Markdown processing.
+Build Settings
+
 markdown: kramdown
-highlighter: rouge
 permalink: /:categories/:title/
-
-# Theme Declaration (Must match the gem name in your Gemfile)
-remote_theme: "mmistakes/minimal-mistakes"
-
-# Plugins (MANDATORY for Minimal Mistakes functionality)
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-include-cache # Improves build speed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-#
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+jekyll-feed
+
+jekyll-sitemap
+
+jekyll-paginate
+
+jekyll-gist
+
+Theme-specific settings for Minimal Mistakes
+
+Layout Defaults (THE CRITICAL FIX for your errors)
+
+defaults:
+
+General Pages (e.g., index.markdown, about.markdown, 404.html)
+
+scope:
+path: ""
+type: "pages"
+values:
+layout: "default"
+author_profile: true # Optional: enable profile sidebar on pages
+
+Posts (e.g., files in _posts folder)
+
+scope:
+path: ""
+type: "posts"
+values:
+layout: "single" # Minimal Mistakes uses 'single' for posts, not 'post'
+author_profile: true
+read_time: true
+comments: true # Add if you want comments
+share: true
+related: true
+
+Navigation Menu (Optional)
+
+header:
+actions:
+- label: "Start Application"
+url: "https://link.pathfindeducation.com/apply"
+
+footer:
+links:
+- label: "LinkedIn"
+icon: "fab fa-fw fa-linkedin"
+url: "https://www.linkedin.com/company/pathfind-education-ltd/"
+- label: "TikTok"
+icon: "fab fa-fw fa-tiktok"
+url: "https://www.tiktok.com/@pathfindeducation"
+- label: "Facebook"
+icon: "fab fa-fw fa-facebook-f"
+url: "https://www.facebook.com/share/1CpsPYs9Qo/"

@@ -1,16 +1,15 @@
 # SITE SETTINGS
-# Replace 'mmistakes/minimal-mistakes@VERSION' if you want a different theme release.
+# Use remote_theme for GitHub Pages
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 title: "Pathfind Education Blog"
 tagline: "Expert, cost-free guidance for study abroad."
 locale: "en-US"
-repository: "Pathfind-Education-Blog" # Change to your GitHub repo name if different
+repository: "Pathfind-Education-Blog"
 
 # Site URL settings
-# If deploying to GitHub Pages for repo pages, set url to your site root (e.g. "https://<username>.github.io")
-url: "" 
-baseurl: "/Pathfind-Education-Blog" # Use "" if deploying to root domain
+url: ""
+baseurl: "/Pathfind-Education-Blog"
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -25,7 +24,6 @@ plugins:
 
 # THEME / MINIMAL MISTAKES SETTINGS
 defaults:
-  # General pages (index, about, 404, etc.)
   - scope:
       path: ""
       type: "pages"
@@ -33,7 +31,6 @@ defaults:
       layout: "default"
       author_profile: true
 
-  # Posts (files in _posts/)
   - scope:
       path: ""
       type: "posts"
@@ -45,7 +42,6 @@ defaults:
       share: true
       related: true
 
-# Optional navigation/footer configuration
 header:
   actions:
     - label: "Start Application"

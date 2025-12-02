@@ -7,7 +7,7 @@ repository: "PathfindEd/Pathfind-Education-Blog"
 
 # Site URL settings
 url: "https://pathfinded.github.io"
-baseurl: "/Pathfind-Education-Blog"
+baseurl: ""  # Set to empty string
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -20,3 +20,10 @@ plugins:
 
 # Note: All "minimal-mistakes-jekyll" specific settings (defaults, header, footer)
 # have been removed as they are incompatible with the Architect theme.
+
+# Add this block to the end of _config.yml
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"

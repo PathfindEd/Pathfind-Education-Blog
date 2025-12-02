@@ -1,60 +1,23 @@
-# SITE SETTINGS
-# Use remote_theme for GitHub Pages
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: jekyll-theme-architect
 
 title: "Pathfind Education Blog"
 tagline: "Expert, cost-free guidance for study abroad."
 locale: "en-US"
-repository: "Pathfind-Education-Blog"
+# Corrected repository based on the GitHub account PathfindEd
+repository: "PathfindEd/Pathfind-Education-Blog"
 
 # Site URL settings
-url: ""
+# Updated to reflect your organization's GitHub Pages URL structure
+url: "https://pathfinded.github.io"
 baseurl: "/Pathfind-Education-Blog"
 
 # BUILD SETTINGS
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 
+# Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
 
-# THEME / MINIMAL MISTAKES SETTINGS
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-header:
-  actions:
-    - label: "Start Application"
-      url: "https://link.pathfindeducation.com/apply"
-
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/pathfind-education-ltd/"
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://www.tiktok.com/@pathfindeducation"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-f"
-      url: "https://www.facebook.com/share/1CpsPYs9Qo/"
+***

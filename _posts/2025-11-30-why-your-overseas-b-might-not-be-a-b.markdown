@@ -1,8 +1,10 @@
+---
 layout: post
 title: "Why Your Overseas 'B' Might Not Be a 'B': Navigating the Credit Translation Trap"
 date: 2025-12-01 08:00:00 +0800
 categories: [study abroad, international admissions, GPA translation, academic strategy]
 tags: [grades, university, credit, postgraduate]
+---
 
 Introduction: The Hidden Risk to Your Academic Success
 

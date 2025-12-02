@@ -274,14 +274,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll
-  jekyll-feed
-  jekyll-gist
-  jekyll-include-cache (~> 0.2)
-  jekyll-paginate
-  jekyll-remote-theme (~> 0.4)
-  jekyll-sitemap
-  jekyll-theme-architect
-  
+  github-pages
+
 BUNDLED WITH
    2.7.2

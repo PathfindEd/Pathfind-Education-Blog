@@ -1,31 +1,26 @@
 # SITE SETTINGS
-# Replace 'mmistakes/minimal-mistakes@VERSION' if you want a different theme release.
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-
+theme: "minimal-mistakes-jekyll"
 title: "Pathfind Education Blog"
 tagline: "Expert, cost-free guidance for study abroad."
 locale: "en-US"
-repository: "Pathfind-Education-Blog" # Change to your GitHub repo name if different
+repository: "Pathfind-Education-Blog"
 
 # Site URL settings
-# If deploying to GitHub Pages for repo pages, set url to your site root (e.g. "https://<username>.github.io")
-url: "" 
-baseurl: "/Pathfind-Education-Blog" # Use "" if deploying to root domain
+url: ""
+baseurl: "/Pathfind-Education-Blog"
 
 # BUILD SETTINGS
 markdown: kramdown
 permalink: /:categories/:title/
 
+# Plugins: jekyll-feed removed (disables RSS generation)
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
 
 # THEME / MINIMAL MISTAKES SETTINGS
 defaults:
-  # General pages (index, about, 404, etc.)
   - scope:
       path: ""
       type: "pages"
@@ -33,7 +28,6 @@ defaults:
       layout: "default"
       author_profile: true
 
-  # Posts (files in _posts/)
   - scope:
       path: ""
       type: "posts"
@@ -45,20 +39,8 @@ defaults:
       share: true
       related: true
 
-# Optional navigation/footer configuration
+# Header/footer customizations
 header:
-  actions:
-    - label: "Start Application"
-      url: "https://link.pathfindeducation.com/apply"
-
+  actions: []
 footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/pathfind-education-ltd/"
-    - label: "TikTok"
-      icon: "fab fa-fw fa-tiktok"
-      url: "https://www.tiktok.com/@pathfindeducation"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-f"
-      url: "https://www.facebook.com/share/1CpsPYs9Qo/"
+  links: []

@@ -108,8 +108,10 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4)
   jekyll-feed (~> 0.16)
+  jekyll-gist
+  jekyll-paginate
   jekyll-sitemap (~> 1.4)
-  minimal-mistakes-jekyll (>= 4.27.1)
+  minimal-mistakes-jekyll (>= 4.27.3)
 
 BUNDLED WITH
    2.7.2

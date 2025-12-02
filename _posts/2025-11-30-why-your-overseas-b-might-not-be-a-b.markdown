@@ -1,13 +1,9 @@
 ---
-layout: single
+layout: post
 title: "Why Your Overseas 'B' Might Not Be a 'B': Navigating the Credit Translation Trap"
 date: 2025-12-01 08:00:00 +0800
 categories: [study abroad, international admissions, GPA translation, academic strategy]
 tags: [grades, university, credit, postgraduate]
-image: /assets/images/grades-translation-hero.jpg
-image_alt: "Grades on a clipboard"
-read_time: 3
-toc: true
 excerpt: "A 'B' overseas can be translated to a lower GPA by admissions offices. Learn how credit translation works and how to protect your application."
 ---
 
@@ -49,5 +45,3 @@ Use bullet lists and short subheadings — long paragraphs feel heavy. Break con
 ## Conclusion
 
 Small differences in conversion rules can have big consequences. Be proactive — gather official documentation and ask programs how they translate grades.
-
-<!-- Optional: more content here -->

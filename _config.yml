@@ -1,46 +1,22 @@
 # SITE SETTINGS
-theme: "minimal-mistakes-jekyll"
+theme: "jekyll-theme-architect"
 title: "Pathfind Education Blog"
 tagline: "Expert, cost-free guidance for study abroad."
 locale: "en-US"
-repository: "Pathfind-Education-Blog"
+repository: "PathfindEd/Pathfind-Education-Blog"
 
 # Site URL settings
-url: ""
+url: "https://pathfinded.github.io"
 baseurl: "/Pathfind-Education-Blog"
 
 # BUILD SETTINGS
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:title/
 
-# Plugins: jekyll-feed removed (disables RSS generation)
+# Plugins
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
 
-# THEME / MINIMAL MISTAKES SETTINGS
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-# Header/footer customizations
-header:
-  actions: []
-footer:
-  links: []
+# Note: All "minimal-mistakes-jekyll" specific settings (defaults, header, footer)
+# have been removed as they are incompatible with the Architect theme.

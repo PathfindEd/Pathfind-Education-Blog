@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% include header.html %}
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p>Copyright &copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

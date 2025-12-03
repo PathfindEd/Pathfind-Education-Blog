@@ -1,0 +1,52 @@
+// _sass/custom/_post_styles.scss
+// Adds visual appeal, spacing, and brand integration for blog posts
+
+.post-content {
+    line-height: 1.7; // Improve readability
+    font-size: 1.05rem;
+    color: $base-font-color; // Inherited Navy color
+
+    h2, h3, h4 {
+        color: $heading-font-color;
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        padding-bottom: 5px;
+        border-bottom: 1px solid $light-background-color;
+    }
+
+    // List Styling
+    ul, ol {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        padding-left: 25px; // Ensure lists are indented nicely
+        
+        li {
+            margin-bottom: 0.5rem;
+            
+            // Custom bullets for unstyled lists
+            &::marker {
+                color: $accent-color; // Use the gold accent for bullets
+            }
+        }
+    }
+    
+    // Blockquote Styling (for Pro Tip and quotes)
+    blockquote {
+        border-left: 4px solid $accent-color; // Highlight with Gold accent
+        background-color: $light-background-color; // Light background (f3f6fa)
+        padding: 1rem 1.5rem;
+        margin: 1.5rem 0;
+        font-style: italic;
+        color: $muted-text-color;
+    }
+    
+    // Image Styling (for images you insert)
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block; // Ensures image centers if container is centered
+        margin: 1.5rem auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); // Subtle shadow for pop
+    }
+}

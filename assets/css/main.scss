@@ -1,2 +1,15 @@
 ---
+# This is the front matter required by Jekyll to process this file
 ---
+
+// 1. Import the default Architect theme dependencies.
+@import "jekyll-architect";
+
+// 2. Import your custom variables to override the theme defaults. 
+// This must happen after the theme import so the theme's default variables are overwritten.
+@import "custom/variables";
+
+// 3. Import your custom post styling.
+@import "custom/post_styles";
+
+// You can add any other custom styles here.

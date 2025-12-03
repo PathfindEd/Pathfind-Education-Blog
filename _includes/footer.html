@@ -1,13 +1,9 @@
-<footer class="site-footer h-card">
+<!-- _includes/footer.html: Override Architect theme footer to remove attribution -->
+<footer class="site-footer h-card" style="background-color: #112649; color: white; padding: 15px 0;">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  <div class="wrapper">
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <p class="h-card">
-          &copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}. All rights reserved.
-        </p>
-      </div>
-    </div>
+  <div class="wrapper" style="max-width: 900px; margin: 0 auto; text-align: center;">
+    <p class="h-card" style="margin: 0;">
+      &copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}. All rights reserved.
+    </p>
   </div>
 </footer>

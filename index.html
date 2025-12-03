@@ -3,17 +3,47 @@ layout: default
 title: Blog Home
 ---
 
+<!-- 1. HERO SECTION: Adjusted styling to fix the cropped logo and spacing -->
 <div class="hero-section" style="
-    /* Existing styles... */
-    background-size: contain; /* Scales image to fit container, showing entire image */
-    background-repeat: no-repeat; /* Prevents tiling */
-    background-position: center 30%; /* Centers horizontally, shifts up slightly vertically */
-    /* ... rest of existing styles ... */
-    ">
+    /* Use 'contain' to ensure the entire background image (logo) is visible */
+    background-image: url('https://i.imgur.com/JSe2Jgf.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center 30%; /* Shift image slightly up if needed */
     
-    </div>
+    /* Use padding to control the size, not fixed height */
+    min-height: 250px; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: flex-end; /* Keep content at the bottom of the padding */
+    
+    color: #112649; /* Use brand color for text inside the hero */
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5); /* Lighter shadow for dark text */
+    margin-top: 0; 
+    margin-bottom: 0; /* Remove space between hero and posts */
+">
+    <h1 style="font-size: 2.5em; margin-top: 0; margin-bottom: 5px;">Pathfind Education Blog</h1>
+</div>
 
-<div class="post-listing-section">
-    <div class="post-listing-section" style="margin-top: -30px;">
-    
-    </div>
+<!-- 2. POST LISTING SECTION: Added negative margin to pull the list higher -->
+<div class="post-listing-section" style="margin-top: -30px;">
+    <h2>Latest Posts</h2>
+    <p>Expert, cost-free guidance for study abroad.</p>
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <h3 class="post-title">
+                <!-- Ensure the URL is correctly generated -->
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <!-- Ensure the date is correctly displayed -->
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

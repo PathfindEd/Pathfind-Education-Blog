@@ -7,7 +7,7 @@ repository: "PathfindEd/Pathfind-Education-Blog"
 
 # Site URL settings
 url: "https://pathfinded.github.io"
-baseurl: "/Pathfind-Education-Blog"  # Set WITH the leading slash
+baseurl: ""  
 
 # BUILD SETTINGS
 markdown: kramdown

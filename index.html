@@ -4,38 +4,16 @@ title: Blog Home
 ---
 
 <div class="hero-section" style="
-    /* The logo is too high because the container's height is fixed and it has default margins.
-       We set the height to auto, use padding for vertical space, and ensure no top margin. */
-    background-image: url('https://i.imgur.com/JSe2Jgf.png');
-    background-size: cover;
-    background-position: center;
-    min-height: 300px; /* Use min-height instead of fixed height */
-    padding-top: 50px; /* Add padding above the logo/title */
-    padding-bottom: 50px;
-    display: flex;
-    flex-direction: column; /* Stack elements vertically */
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-    margin-top: 0; /* Remove potential margin pushing content down */
-    margin-bottom: 20px;">
+    /* Existing styles... */
+    background-size: contain; /* Scales image to fit container, showing entire image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    background-position: center 30%; /* Centers horizontally, shifts up slightly vertically */
+    /* ... rest of existing styles ... */
+    ">
     
-    <h1 style="font-size: 3em; margin-top: 0; margin-bottom: 5px;">Pathfind Education Blog</h1>
-</div>
+    </div>
 
 <div class="post-listing-section">
-    <h2>Latest Posts</h2>
-    <p>Expert, cost-free guidance for study abroad.</p>
-
-    <ul class="post-list">
-        {% for post in site.posts %}
-        <li>
-            <h3 class="post-title">
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h3>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+    <div class="post-listing-section" style="margin-top: -30px;">
+    
+    </div>

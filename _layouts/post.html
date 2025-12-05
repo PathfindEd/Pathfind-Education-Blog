@@ -1,27 +1,36 @@
 ---
 layout: default
 ---
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header" style="text-align: center; margin-bottom: 2rem;">
-    <h1 class="post-title p-name" itemprop="name headline" style="color: #112649;">
+  <header style="text-align: center; max-width: 700px; margin: 0 auto 40px;">
+    <div style="color: #f5a623; font-weight: 700; text-transform: uppercase; font-size: 0.9em; letter-spacing: 1px; margin-bottom: 10px;">
+      Blog Post
+    </div>
+    <h1 class="p-name" itemprop="name headline" style="color: #112649; font-size: 2.5em; line-height: 1.2; margin-bottom: 15px;">
       {{ page.title | escape }}
     </h1>
-    <p class="post-meta" style="color: #6b7280; font-style: italic;">
+    <p style="color: #6b7280;">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: site.minima.date_format | default: "%b %-d, %Y" }}
+        {{ page.date | date: "%B %-d, %Y" }}
       </time>
-      {%- if page.categories and page.categories.size > 0 -%}
-        &bull; Categories: {{ page.categories | join: ', ' | capitalize }}
-      {%- endif -%}
     </p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemprop="articleBody" style="max-width: 700px; margin: 0 auto; font-size: 1.1em; color: #374151;">
     {{ content }}
   </div>
 
-  {% include main_site_cta.html %}
+  <div style="max-width: 800px; margin: 60px auto 0; background: #f3f6fa; border-radius: 12px; padding: 40px; text-align: center; border: 1px solid #e5e7eb;">
+    <h3 style="color: #112649; margin-top: 0;">Need help applying to this university?</h3>
+    <p style="color: #4b5563; margin-bottom: 25px;">
+      We can manage your entire application process for free. We check your documents, submit your application, and track your offer.
+    </p>
+    <a href="https://link.pathfindeducation.com/apply" target="_blank" style="background: #f5a623; color: #112649; font-weight: 700; padding: 12px 28px; border-radius: 8px; display: inline-block;">
+      Get Free Application Help &rarr;
+    </a>
+  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

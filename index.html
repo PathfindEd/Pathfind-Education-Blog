@@ -1,49 +1,79 @@
 ---
 layout: default
-title: Blog Home
+title: Home
 ---
 
-<!-- 1. HERO SECTION: Adjusted styling to fix the cropped logo and spacing -->
-<div class="hero-section" style="
-    /* Use 'contain' to ensure the entire background image (logo) is visible */
-    background-image: url('https://i.imgur.com/JSe2Jgf.png');
-    background-size: contain; 
-    background-repeat: no-repeat; 
-    background-position: center 30%; /* Shift image slightly up if needed */
-    
-    /* Use padding to control the size, not fixed height */
-    min-height: 250px; 
-    padding-top: 40px;
-    padding-bottom: 40px;
-    
-    display: flex;
-    flex-direction: column; 
-    align-items: center;
-    justify-content: flex-end; /* Keep content at the bottom of the padding */
-    
-    color: #112649; /* Use brand color for text inside the hero */
-    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5); /* Lighter shadow for dark text */
-    margin-top: 0; 
-    margin-bottom: 0; /* Remove space between hero and posts */
-">
-    <h1 style="font-size: 2.5em; margin-top: 0; margin-bottom: 5px;">Pathfind Education Blog</h1>
+<div style="text-align: center; margin-bottom: 50px; padding: 20px 0;">
+  <h1 style="color: #112649; font-size: 2.8em; font-weight: 800; margin-bottom: 10px; line-height: 1.2;">
+    Study Abroad Insights
+  </h1>
+  <p style="color: #6b7280; font-size: 1.2em; max-width: 600px; margin: 0 auto;">
+    Expert advice, university guides, and tips for international students. <br>
+    <strong>100% Free Guidance.</strong>
+  </p>
 </div>
 
-<!-- 2. POST LISTING SECTION: Added negative margin to pull the list higher -->
-<div class="post-listing-section" style="margin-top: -30px;">
-    <h2>Latest Posts</h2>
-    <p>Expert, cost-free guidance for study abroad.</p>
+<style>
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+  }
+  
+  .post-card {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 25px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.05);
+    border-color: #f5a623;
+  }
 
-    <ul class="post-list">
-        {% for post in site.posts %}
-        <li>
-            <h3 class="post-title">
-                <!-- Ensure the URL is correctly generated -->
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h3>
-            <!-- Ensure the date is correctly displayed -->
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </li>
-        {% endfor %}
-    </ul>
+  .post-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.25em;
+    color: #112649;
+    line-height: 1.4;
+  }
+  
+  .post-card .excerpt {
+    color: #6b7280;
+    font-size: 0.95em;
+    margin-bottom: 20px;
+    flex-grow: 1;
+  }
+
+  .read-more {
+    font-weight: 700;
+    color: #f5a623;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+</style>
+
+<div class="post-grid">
+  {% for post in site.posts %}
+  <a href="{{ post.url | relative_url }}" class="post-card">
+    <div>
+      <span style="font-size: 0.8em; color: #9ca3af; text-transform: uppercase; letter-spacing: 1px;">
+        {{ post.date | date: "%b %d, %Y" }}
+      </span>
+      <h3>{{ post.title }}</h3>
+      <div class="excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 20 }}
+      </div>
+    </div>
+    <div class="read-more">Read Article &rarr;</div>
+  </a>
+  {% endfor %}
 </div>

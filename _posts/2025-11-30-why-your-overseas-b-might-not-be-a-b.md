@@ -7,7 +7,7 @@ tags: [grades, university, credit, postgraduate]
 excerpt: "A 'B' overseas can be translated to a lower GPA by admissions offices. Learn how credit translation works and how to protect your application."
 ---
 
-![](/assets/images/grades-translation-hero.jpg){: alt="Grades on a clipboard" }
+![Grades on a clipboard](https://imgur.com/a/5ABL0PA)
 
 ## Introduction: The Hidden Risk to Your Academic Success
 

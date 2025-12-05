@@ -1,33 +1,34 @@
 backend:
   name: git-gateway
-  branch: main # Remains correct
+  branch: main
 
 # Defines where your media (images) are stored
 media_folder: "assets/images/uploads" 
 public_folder: "/assets/images/uploads"
 
 collections:
-  # 1. BLOG POSTS COLLECTION (UPDATED)
+  # 1. BLOG POSTS COLLECTION
   - name: "post"
     label: "Blog Posts"
-    folder: "_posts" # Confirmed this is correct
+    folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list", required: false} # Added
-      - {label: "Tags", name: "tags", widget: "list", required: false} # Added
-      - {label: "Excerpt", name: "excerpt", widget: "text", required: false} # Added to match your post
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       
-  # 2. STATIC PAGES COLLECTION (for Homepage)
+  # 2. STATIC PAGES COLLECTION (FIXED)
   - name: "pages"
     label: "Static Pages"
     files:
-      - file: "index.html" # Change to "index.md" if your homepage is markdown
+      - file: "index.html"
         label: "Homepage"
+        name: "index" # <--- THIS WAS THE MISSING, REQUIRED PROPERTY
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "default"}

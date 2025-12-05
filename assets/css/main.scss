@@ -12,4 +12,9 @@
 // 3. Import your custom post styling.
 @import "custom/post_styles";
 
-// You can add any other custom styles here.
+// 4. Custom Layout Overrides
+.wrapper {
+  /* Pushes the content 10% from the left edge */
+  margin-left: 10%;
+  margin-right: auto;
+}

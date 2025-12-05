@@ -1,21 +1,34 @@
 backend:
   name: git-gateway
-  branch: main # Use 'main' based on your git output
+  branch: main # Remains correct
 
-# This defines where your media (images) are stored
+# Defines where your media (images) are stored
 media_folder: "assets/images/uploads" 
 public_folder: "/assets/images/uploads"
 
-# This defines the "Post" content type
 collections:
+  # 1. BLOG POSTS COLLECTION (UPDATED)
   - name: "post"
     label: "Blog Posts"
-    folder: "_posts" # Standard Jekyll location
+    folder: "_posts" # Confirmed this is correct
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
-    fields: # These are the fields you see in the editor
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false} # Added
+      - {label: "Tags", name: "tags", widget: "list", required: false} # Added
+      - {label: "Excerpt", name: "excerpt", widget: "text", required: false} # Added to match your post
       - {label: "Body", name: "body", widget: "markdown"}
+      
+  # 2. STATIC PAGES COLLECTION (for Homepage)
+  - name: "pages"
+    label: "Static Pages"
+    files:
+      - file: "index.html" # Change to "index.md" if your homepage is markdown
+        label: "Homepage"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Body", name: "body", widget: "markdown"}

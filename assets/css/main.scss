@@ -12,9 +12,15 @@
 // 3. Import your custom post styling.
 @import "custom/post_styles";
 
-// 4. Custom Layout Overrides
-.wrapper {
-  /* Pushes the content 10% from the left edge */
-  margin-left: 10%;
-  margin-right: auto;
+// 4. Custom Layout Overrides - SHIFT CONTENT ONLY
+section {
+  /* Keeps the header full-width, shifts content 10% to the right. */
+  margin-left: 10% !important; 
+  max-width: 90%; 
+}
+
+// 5. Banner Color Override - USING NAVY BLUE #112649
+header {
+  /* Overrides the theme's header color with your primary navy blue */
+  background-color: #112649 !important; 
 }

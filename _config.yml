@@ -5,8 +5,8 @@ tagline: "Expert, cost-free guidance for study abroad."
 locale: "en-US"
 repository: "PathfindEd/Pathfind-Education-Blog"
 
-# Site URL settings
-url: "https://pathfinded.github.io"
+# Site URL settings - CRITICALLY UPDATED FOR SEO
+url: "https://blog.pathfindeducation.com" # <-- CORRECTED
 baseurl: ""  
 
 # BUILD SETTINGS

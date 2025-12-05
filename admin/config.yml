@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: main # Use 'main' based on your git output
+
+# This defines where your media (images) are stored
+media_folder: "assets/images/uploads" 
+public_folder: "/assets/images/uploads"
+
+# This defines the "Post" content type
+collections:
+  - name: "post"
+    label: "Blog Posts"
+    folder: "_posts" # Standard Jekyll location
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields: # These are the fields you see in the editor
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}

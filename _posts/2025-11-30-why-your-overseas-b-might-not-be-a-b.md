@@ -50,17 +50,14 @@ Here's how common scales can lead to problematic conversions when applying to a 
 
 ## Practical Steps to Protect Your Application
 
-### 1. Review Official Equivalency Tables
+1. **Review Official Equivalency Tables**
+   **Do not guess.** Many top UK universities (e.g., LSE, Manchester, King's College) publish **specific country-by-country grade requirements** on their admissions pages. Look up the exact minimum score required from your specific institution or grading body.
 
-**Do not guess.** Many top UK universities (e.g., LSE, Manchester, King's College) publish **specific country-by-country grade requirements** on their admissions pages. Look up the exact minimum score required from your specific institution or grading body.
+2. **Procure an Official Grading Scale**
+   When ordering your transcript, ensure your home university includes an official, **notarised document that explains the grading system**. This must detail the minimum mark for "Pass," "Distinction," and other key metrics.
 
-### 2. Procure an Official Grading Scale
-
-When ordering your transcript, ensure your home university includes an official, **notarised document that explains the grading system**. This must detail the minimum mark for "Pass," "Distinction," and other key metrics.
-
-### 3. Utilise Credential Evaluation Services
-
-If you have a complex international background, consider getting a report from a credential evaluation service (like **NARIC/ECCTIS**—the UK's national agency). While this isn't always mandatory, it provides an official, UK-recognised conversion that can clarify your position and protect against subjective assessment.
+3. **Utilise Credential Evaluation Services**
+   If you have a complex international background, consider getting a report from a credential evaluation service (like **NARIC/ECCTIS**—the UK's national agency). While this isn't always mandatory, it provides an official, UK-recognised conversion that can clarify your position and protect against subjective assessment.
 
 ---
 

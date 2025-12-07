@@ -24,8 +24,6 @@ Admissions teams at top institutions like Russell Group universities are looking
     * **Flaw:** "I want to study Economics because I am good with numbers."
     * **Fix (Experience):** "My interest in Economics was crystallised during my summer internship tracking the effects of the recent interest rate changes on local small business financing. This experience revealed the tangible impact of macroeconomic policy, driving my desire to understand these mechanisms at a deeper level."
 
-    **Google SEO Note:** Use the full course name and university name if you are targeting a specific application guide (e.g., "MSc Computer Science personal statement UK").
-
 ---
 
 2.  **Show Evidence, Do Not Make Empty Claims**

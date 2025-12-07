@@ -7,8 +7,6 @@ tags: [university rankings, admissions, career goals, higher education]
 excerpt: "A good university choice is not about prestige; it is about alignment. Learn why following rankings and TikTok hype can lead to a degree that feels irrelevant."
 ---
 
-## Why Most Students Choose the Wrong University (And How to Stop It)
-
 Students often pick universities for the wrong reasons. They rely on global rankings they do not fully understand, the opinions of friends, or viral social media trends. They look at random "top 10" lists created by marketing agencies rather than academic professionals.
 
 The result is often disappointment. Students arrive on campus only to find the course material irrelevant, the workload unmanageable, or the teaching style incompatible with their learning strengths.

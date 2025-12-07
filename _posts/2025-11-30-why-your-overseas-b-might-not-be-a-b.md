@@ -7,8 +7,6 @@ tags: [grades, university, credit, postgraduate]
 excerpt: "A critical warning for international students: When applying to UK universities, your seemingly strong grade from your home country can be systematically downgraded."
 ---
 
-## Why Your Overseas 'B' Might Not Be a 'B': Navigating the UK Grade Translation Trap
-
 A critical warning for international students: When applying to UK universities, your seemingly strong grade from your home country can be systematically downgraded. Your overseas 'B' might officially translate to a UK 2:2, severely limiting your postgraduate options.
 
 ---

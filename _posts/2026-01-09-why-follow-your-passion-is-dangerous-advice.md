@@ -7,8 +7,6 @@ tags: [intellectual vitality, passion, essay writing, university admissions]
 excerpt: "Stop trying to save the world in your personal statement. Universities are not looking for passion; they are looking for Intellectual Vitality."
 ---
 
-## Why "Follow Your Passion" Is Dangerous Advice
-
 The most dangerous advice given to high school students is to "follow their passion."
 
 Most seventeen-year-olds do not have a defined, life-altering passion yet. When we ask them to define one for a university application, they panic. They manufacture a narrative that sounds fake because they think they need to promise to save the world just to get into a good engineering or arts programme.

@@ -7,8 +7,6 @@ tags: [writing tips, university application, sop, admissions essay]
 excerpt: "Most SOPs are a disaster of vague stories and fake enthusiasm. Discover what admissions teams are actually looking for: clarity, logic, and structure."
 ---
 
-## The Hidden Weaknesses in Most Statements of Purpose
-
 Most Statements of Purpose (SOPs) are disjointed. They are often filled with vague stories, recycled templates found online, manufactured enthusiasm, and zero logical flow.
 
 A common mistake is writing at length about "passion" without ever explaining the academic progression that backs it up. Students often list achievements like a shopping list but fail to show how those achievements connect to the specific master's or undergraduate programme they are applying for.

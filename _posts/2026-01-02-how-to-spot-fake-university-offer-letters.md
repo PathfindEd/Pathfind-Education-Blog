@@ -7,8 +7,6 @@ tags: [fraud prevention, offer letter, university scams, international study]
 excerpt: "Bad offer letters are everywhere. Learn the red flags of fake or low-credibility offers that can ruin your intake and cost you thousands."
 ---
 
-## How to Spot a Fake or Low-Quality Offer Letter
-
 In the rush to secure a university place, students often become targets for bad actors. Bad offer letters are everywhere. Some are outright fakes created by scammers. Others are technically "real" but come from institutions with such poor academic standing that the offer is effectively useless for your long-term career.
 
 Students often accept these because they simply do not know better, only to find out later that the degree is not recognised or the campus does not exist as advertised.

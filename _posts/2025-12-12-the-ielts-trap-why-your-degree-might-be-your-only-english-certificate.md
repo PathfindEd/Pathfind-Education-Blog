@@ -7,8 +7,6 @@ tags: [ielts, toefl, medium of instruction, moi, language waiver, admissions]
 excerpt: "If you completed your previous degree in English, you may be able to secure a language requirement waiver for your UK university application, saving you time and money."
 ---
 
-## The IELTS Trap: Why Your Degree Might Be Your Only English Certificate
-
 It is a common scenario: a student who completed their entire undergraduate degree taught in English spends valuable time and money preparing for and sitting the IELTS or TOEFL test, only to find out they never needed to.
 
 Many top universities, particularly those in the UK, offer a waiver for the standard English language proficiency tests if your prior education already proves your competence. This approach saves applicants hundreds of pounds and weeks of effort.

@@ -24,8 +24,6 @@ Admissions teams at top institutions like Russell Group universities are looking
     * **Flaw:** "I want to study Economics because I am good with numbers."
     * **Fix (Experience):** "My interest in Economics was crystallised during my summer internship tracking the effects of the recent interest rate changes on local small business financing. This experience revealed the tangible impact of macroeconomic policy, driving my desire to understand these mechanisms at a deeper level."
 
----
-
 2.  **Show Evidence, Do Not Make Empty Claims**
 
     Statements are judged on what you **have done**, not what you **claim to feel**. This is the core of establishing **trust** and **experience**. Every skill you mention must be backed up by a concrete action.
@@ -37,8 +35,6 @@ Admissions teams at top institutions like Russell Group universities are looking
 
     Focus 80% of your statement on academic and extracurricular evidence related to your chosen **UK degree subject**.
 
----
-
 3.  **Connect Academics, Future Goals, and Your Course**
 
     Admissions tutors want to see **direction**. You need to prove that their specific **UK university course** is the logical next step in your long-term plan. This demonstrates high **authority** and commitment.
@@ -46,16 +42,12 @@ Admissions teams at top institutions like Russell Group universities are looking
     * **What to Cover:** How have your current studies (A-Levels, IB, Access Course) prepared you? What specific modules at the UK university excite you (e.g., "I am particularly drawn to Dr Smith's research module on cognitive neuroscience at UCL")?
     * **Goals:** Briefly outline a feasible career aspiration (e.g., "My goal is to pursue a career in sustainable urban planning, and the focus on climate mitigation in your Geography programme provides the precise foundation I need").
 
----
-
 4.  **Be Highly Specific and Personal**
 
     A powerful statement is one that **only you could write**. Generic phrases about the UK's "quality education" or "rich culture" add zero value and are immediately dismissed.
 
     * **Trustworthy Content:** Detail a specific book, academic theory, or debate that genuinely challenges you. Discuss how you applied a concept from a relevant competition.
     * **The Specificity Test:** If you could swap your essay with someone applying for a different subject, it is too general. Ensure your entire essay is saturated with subject-specific terminology and focused learning points.
-
----
 
 5.  **Prioritise Honesty and Focus (Authenticity)**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Plagiarism Style Gap: The Common Reason for Academic Disciplinary Action"
-date: 2026-01-16 08:00:00 +0000
+date: 2025-12-26 08:00:00 +0000
 categories: [academic integrity, study tips, student success, university prep]
 tags: [plagiarism, citations, academic misconduct, study abroad]
 excerpt: "Academic integrity is not universal. Learn why the 'Plagiarism Style Gap' catches out international students and how to protect your grades."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Most Students Choose the Wrong University (And How to Stop It)"
-date: 2025-12-19 08:00:00 +0000
+date: 2025-12-14 08:00:00 +0000
 categories: [study abroad, university selection, career planning, student advice]
 tags: [university rankings, admissions, career goals, higher education]
 excerpt: "A good university choice is not about prestige; it is about alignment. Learn why following rankings and TikTok hype can lead to a degree that feels irrelevant."

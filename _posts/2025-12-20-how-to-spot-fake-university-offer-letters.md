@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Spot a Fake or Low-Quality Offer Letter Before It Costs You"
-date: 2026-01-02 08:00:00 +0000
+date: 2025-12-20 08:00:00 +0000
 categories: [student safety, admissions scams, offer letters, university guides]
 tags: [fraud prevention, offer letter, university scams, international study]
 excerpt: "Bad offer letters are everywhere. Learn the red flags of fake or low-credibility offers that can ruin your intake and cost you thousands."

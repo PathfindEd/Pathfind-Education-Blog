@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The IELTS Trap: Why Your Degree Might Be Your Only English Certificate"
-date: 2025-12-12 08:00:00 +0000
+date: 2025-12-11 08:00:00 +0000
 categories: [study abroad, uk admissions, ielts, language requirements]
 tags: [ielts, toefl, medium of instruction, moi, language waiver, admissions]
 excerpt: "If you completed your previous degree in English, you may be able to secure a language requirement waiver for your UK university application, saving you time and money."

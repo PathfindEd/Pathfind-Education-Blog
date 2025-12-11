@@ -14,15 +14,23 @@
         border-bottom: 1px solid $light-background-color;
     }
 
-    // --- Link Styling (New Block) ---
+    // --- Link Styling (UPDATED TO FORCE ORANGE) ---
     a {
-        // Inherits color from $link-color (your Gold/Orange) defined in _variables.scss
-        text-decoration: underline; // CRITICAL: Makes the link obvious and accessible
-        font-weight: 600;           // Makes the link text stand out
+        color: $accent-color !important; // FORCE ORANGE (Overrides Navy)
+        font-weight: bold;               // Force Bold
+        text-decoration: underline;      // Keep underline so it looks like a link
     }
+
+    // Ensure visited links DON'T turn Navy/Purple
+    a:visited {
+        color: $accent-color !important; // Keep them Orange even after clicking
+    }
+    
+    // Hover state
     a:hover {
-        // Inherits color from $link-hover-color (darker Gold/Orange)
-        text-decoration: none;      // Optional: Remove underline on hover for a cleaner modern feel
+        color: darken($accent-color, 15%) !important; // Darker Orange when hovering
+        text-decoration: none;           
+        cursor: pointer;
     }
     // ---------------------------------
 
@@ -30,35 +38,35 @@
     ul, ol {
         margin-top: 1rem;
         margin-bottom: 1rem;
-        padding-left: 25px; // Ensure lists are indented nicely
+        padding-left: 25px; 
         
         li {
             margin-bottom: 0.5rem;
             
             // Custom bullets for unstyled lists
             &::marker {
-                color: $accent-color; // Use the gold accent for bullets
+                color: $accent-color; 
             }
         }
     }
     
-    // Blockquote Styling (for Pro Tip and quotes)
+    // Blockquote Styling
     blockquote {
-        border-left: 4px solid $accent-color; // Highlight with Gold accent
-        background-color: $light-background-color; // Light background (f3f6fa)
+        border-left: 4px solid $accent-color; 
+        background-color: $light-background-color; 
         padding: 1rem 1.5rem;
         margin: 1.5rem 0;
         font-style: italic;
         color: $muted-text-color;
     }
     
-    // Image Styling (for images you insert)
+    // Image Styling
     img {
         max-width: 100%;
         height: auto;
-        display: block; // Ensures image centers if container is centered
+        display: block; 
         margin: 1.5rem auto;
         border-radius: 8px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); // Subtle shadow for pop
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
     }
 }

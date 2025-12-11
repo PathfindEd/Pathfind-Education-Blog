@@ -11,7 +11,7 @@ baseurl: ""
 
 # BUILD SETTINGS
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # Plugins
 plugins:

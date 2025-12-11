@@ -1,0 +1,11 @@
+# --- Netlify 301 Redirects for Permalink Change ---
+# Redirecting Old Date-Based URLs to New /title/ URLs (Permanent SEO Fix)
+
+# Redirect for "Launching The Pathfind Education Blog..." (2025-11-26)
+/2025/11/26/launching-the-pathfind-education-blog/ /launching-the-pathfind-education-blog/ 301
+
+# Redirect for "Why Your Overseas 'B' Might Not Be a 'B'" (2025-12-01)
+/2025/12/01/why-your-overseas-b-might-not-be-a-b/ /why-your-overseas-b-might-not-be-a-b/ 301
+
+# Redirect for "How to Write a Strong Personal Statement..." (2025-12-07)
+/2025/12/07/how-to-write-a-strong-personal-statement-for-uk-universities-building-trust-and-authority/ /how-to-write-a-strong-personal-statement-for-uk-universities-building-trust-and-authority/ 301

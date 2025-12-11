@@ -16,7 +16,7 @@ A critical warning for international students: When applying to UK universities,
 UK universities operate on a specific degree classification system that relies less on a continuous GPA and more on weighted averages and final-year performance. Admissions officers convert your grades to this system, often using published or internal equivalency tables.
 
 * **Weighting Differences:** In many systems (e.g., US, Canada), every year/credit contributes heavily to the final GPA. In the UK, **final year/dissertation modules are often weighted most heavily**, meaning an admissions team might mentally adjust your overall score to match this UK focus.
-* **The Crucial UK Classifications:** Most UK postgraduate programmes require a minimum of an Upper Second Class Honours (**2:1**). A mark that falls just shy of this in conversion can reclassify you as a Lower Second Class Honours (**2:2**), which is often insufficient for competitive programmes. (If your grades are borderline, learn how to craft a **[powerful personal statement](/how-to-write-a-strong-personal-statement-for-uk-universities-building-trust-and-authority/)** to boost your application.)
+* **The Crucial UK Classifications:** Most UK postgraduate programmes require a minimum of an Upper Second Class Honours (**2:1**). A mark that falls just shy of this in conversion can reclassify you as a Lower Second Class Honours (**2:2**), which is often insufficient for competitive programmes. (If your grades are borderline, learn how to craft a **[powerful personal statement](/how-to-write-a-strong-personal-statement-for-uk-universities/)** to boost your application.)
 
 ---
 

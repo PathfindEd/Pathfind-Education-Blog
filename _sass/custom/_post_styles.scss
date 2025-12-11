@@ -14,20 +14,18 @@
         border-bottom: 1px solid $light-background-color;
     }
 
-    // --- Link Styling (FIXED: Uses .post-content for high specificity) ---
-    // Target all link states inside the post content area
-    a,
-    a:link,
-    a:visited {
-        color: $accent-color !important; // FORCE ORANGE
+    // --- Link Styling (FINAL FIX: Guaranteed specificity, Color, and Underline) ---
+    // Targets ALL link states (normal, visited, active)
+    a, a:link, a:visited, a:active {
+        color: $accent-color !important;
         font-weight: bold;
-        text-decoration: underline;
+        text-decoration: underline !important; // FORCED UNDERLINE
     }
     
     // Hover state
     a:hover {
-        color: darken($accent-color, 15%) !important; // Darker Orange when hovering
-        text-decoration: none;
+        color: darken($accent-color, 15%) !important;
+        text-decoration: underline !important; // FORCED UNDERLINE on hover
         cursor: pointer;
     }
     // -------------------------------------------------------------

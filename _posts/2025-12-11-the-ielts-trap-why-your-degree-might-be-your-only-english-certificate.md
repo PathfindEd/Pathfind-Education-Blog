@@ -43,6 +43,6 @@ Every week, ambitious students book tests they could have easily avoided. This m
 
 If your degree was taught and examined fully in English, you must **always check the specific university's policy** before booking a test.
 
-While MOI waivers are widely accepted, they are not universal. Some highly competitive programmes or universities have strict institutional policies that require an IELTS or equivalent score regardless of your previous study. (If you must take the IELTS, make sure your **[Personal Statement](/how-to-write-a-strong-personal-statement-for-uk-universities-building-trust-and-authority/)** still stands strong to secure your place.)
+While MOI waivers are widely accepted, they are not universal. Some highly competitive programmes or universities have strict institutional policies that require an IELTS or equivalent score regardless of your previous study. (If you must take the IELTS, make sure your **[Personal Statement](/how-to-write-a-strong-personal-statement-for-uk-universities/)** still stands strong to secure your place.)
 
 At Pathfind Education, we help students confirm precisely which UK universities and specific courses accept the MOI letter *before* you apply. Why sit another proficiency test if your entire degree already proves your English ability?

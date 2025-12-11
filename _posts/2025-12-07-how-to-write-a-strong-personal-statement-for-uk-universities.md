@@ -24,7 +24,7 @@ Admissions teams at top institutions like Russell Group universities are looking
 
 2.  **Show Evidence, Do Not Make Empty Claims**
 
-    Statements are judged on what you **have done**, not what you **claim to feel**. This is the core of establishing **trust** and **experience**. Every skill you mention must be backed up by a concrete action.
+    Statements are judged on what you **have done**, not what you **claim to feel**. This is the core of establishing **trust** and **experience**. Every skill you mention must be backed up by a concrete action. (If you are concerned about your grades, you need a strong statement to compensate for the **[UK Grade Translation Trap](/why-your-overseas-b-might-not-be-a-b/)**.)
 
     | Claim (Weak) | Evidence (Strong and Trustworthy) |
     | :--- | :--- |
@@ -49,7 +49,7 @@ Admissions teams at top institutions like Russell Group universities are looking
 
 5.  **Prioritise Honesty and Focus (Authenticity)**
 
-    Admissions tutors are experts in detecting plagiarism or highly exaggerated narratives. A simple, honest account of your learning journey is far more compelling than a statement that feels overly polished or fabricated.
+    Admissions tutors are experts in detecting plagiarism or highly exaggerated narratives. A simple, honest account of your learning journey is far more compelling than a statement that feels overly polished or fabricated. (Need proof of English proficiency? Don't write about it here—see how to **[avoid the IELTS Trap](/the-ielts-trap-why-your-degree-might-be-your-only-english-certificate/)**).
 
     * **Word Count:** The UCAS system is strictly limited to 4,000 characters (or 47 lines). This forces you to be concise. Do not waste space on irrelevant personal details or overly long introductory phrases.
     * **Review and Refine:** Have a teacher or trusted mentor review your statement for clarity and tone. An authentic voice, even with a minor grammatical slip, shows more **student trust** than a perfectly fabricated essay.

@@ -14,6 +14,18 @@
         border-bottom: 1px solid $light-background-color;
     }
 
+    // --- Link Styling (New Block) ---
+    a {
+        // Inherits color from $link-color (your Gold/Orange) defined in _variables.scss
+        text-decoration: underline; // CRITICAL: Makes the link obvious and accessible
+        font-weight: 600;           // Makes the link text stand out
+    }
+    a:hover {
+        // Inherits color from $link-hover-color (darker Gold/Orange)
+        text-decoration: none;      // Optional: Remove underline on hover for a cleaner modern feel
+    }
+    // ---------------------------------
+
     // List Styling
     ul, ol {
         margin-top: 1rem;

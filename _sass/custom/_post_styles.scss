@@ -1,11 +1,11 @@
 // _sass/custom/_post_styles.scss
 
 .post-content {
-    line-height: 1.7; 
+    line-height: 1.7; // Improve readability
     font-size: 1.05rem;
     
-    // EXPLICITLY SET THE BASE COLOR FOR THE PARENT DIV TO YOUR NAVY BRAND COLOR
-    // This defeats any generic 'inherit' rule pulling from 'default' layout.
+    // Explicitly set the base text color for the content block.
+    // We use the brand color to manage the 'inherit' rule.
     color: #112649 !important; 
 
     h2, h3, h4 {
@@ -52,22 +52,5 @@
     }
 }
 
-
-// FINAL GUARANTEED LINK FIX: Targets BOTH specific classes.
-
-// DEFAULT STATES: Orange and Underlined
-.post-content.e-content a,
-.post-content.e-content a:link,
-.post-content.e-content a:visited,
-.post-content.e-content a:active {
-    color: #f5a623 !important; /* FORCED ORANGE (Your accent color) */
-    font-weight: bold !important;
-    text-decoration: underline !important; 
-}
-
-// HOVER STATE: Navy Blue and Underlined
-.post-content.e-content a:hover {
-    color: #112649 !important; /* FORCED NAVY BLUE on hover */
-    font-weight: bold !important;
-    text-decoration: underline !important; 
-}
+// NOTE: The final link overrides are now located at the bottom of assets/main.css
+// using the highly specific selector '.post-content.e-content a'.

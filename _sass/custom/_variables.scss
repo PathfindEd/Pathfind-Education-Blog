@@ -1,18 +1,18 @@
 // _sass/custom/_variables.scss
     
-    // --- Custom Brand Colors ---
-    $brand-color: #112649;
-    $accent-color: #f5a623;
+// --- Custom Brand Colors ---
+$brand-color: #112649;
+$accent-color: #f5a623;
     
-    // Applying custom colors to theme variables for consistency
-    $base-font-color: $brand-color;     // Use Navy for main text
-    $heading-font-color: $brand-color;  // Use Navy for headers
-    $link-color: $accent-color;         // Use Gold/Orange for links
-    $link-hover-color: darken($accent-color, 10%);
+// Applying custom colors to theme variables for consistency
+$base-font-color: $brand-color;     // Use Navy for main text
+$heading-font-color: $brand-color;  // Use Navy for headers
+$link-color: $accent-color;         // Use Gold/Orange for links
+$link-hover-color: darken($accent-color, 10%);
     
-    // Defining other theme elements
-    $muted-text-color: #6b7280; 
-    $light-background-color: #f3f6fa;
-    $sidebar-background-color: $light-background-color;
-    $footer-background-color: $brand-color;
-    $footer-text-color: #ffffff;
+// Defining other theme elements
+$muted-text-color: #6b7280; 
+$light-background-color: #f3f6fa;
+$sidebar-background-color: $light-background-color;
+$footer-background-color: $brand-color;
+$footer-text-color: #ffffff;

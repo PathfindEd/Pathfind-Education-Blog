@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why 'Follow Your Passion' Is Dangerous Advice for Students"
-date: 2025-12-23 08:00:00 +0000
+date: 2026-01-07 08:00:00 +0000
 categories: [personal statement, academic advice, student strategy, ivy league]
 tags: [intellectual vitality, passion, essay writing, university admissions]
 excerpt: "Stop trying to save the world in your personal statement. Universities are not looking for passion; they are looking for Intellectual Vitality."

@@ -31,7 +31,7 @@ Do not ask for a generic letter. Provide a bullet-point list of 3-5 specific ach
 | "I worked well in the lab." | "Please reference my capacity for independent research during the six-month lab project where I successfully trouble-shot the system failure without supervision." |
 
 ### 3. Compliance: The Technical Checklist
-Send your referee the technical requirements we outlined in our previous post. Make it clear that failure to follow these administrative guidelines (such as using official letterhead and signing the document) is the top reason for LOR rejection.
+Send your referee the technical requirements we outlined in our previous post: **[The Silent Killer: Ensuring Your University Reference Letter Meets UK Admissions Standards](https://blog.pathfindeducation.com/the-silent-killer-reference-letter-standards)**. Make it clear that failure to follow these administrative guidelines (such as using official letterhead and signing the document) is the top reason for LOR rejection.
 
 ---
 

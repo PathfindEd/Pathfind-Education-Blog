@@ -32,7 +32,7 @@ To be considered valid, the document must include:
 **Critical Warning:** Most UK university admissions portals automatically flag references submitted from personal email domains (such as Gmail, Yahoo, or 163.com). If your professor uses a personal email, you must provide a secondary form of verification, such as a link to their profile on the university's official staff directory.
 
 ### 2. Mandatory Date and Signature
-The reference must be physically or digitally signed by the referee. A typed name alone is often insufficient for visa-level compliance.
+The reference must be physically or digitally signed by the referee.
 
 Furthermore, the letter must be **dated**. Crucially, most UK institutions require the letter to be dated **no more than six months** before the date of application submission. An old reference from a previous year is often considered invalid as it does not reflect your current academic standing.
 

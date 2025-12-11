@@ -3,7 +3,10 @@
 .post-content {
     line-height: 1.7; // Improve readability
     font-size: 1.05rem;
-    color: $base-font-color; // Base text color (Navy from your variables)
+    
+    // EXPLICITLY SET THE BASE COLOR FOR THE PARENT DIV TO YOUR NAVY BRAND COLOR
+    // This defeats any generic 'inherit' rule pulling from 'default' layout.
+    color: #112649 !important; 
 
     h2, h3, h4 {
         color: $heading-font-color;
@@ -57,14 +60,14 @@
 .post-content.e-content a:link,
 .post-content.e-content a:visited,
 .post-content.e-content a:active {
-    color: $accent-color !important; /* FORCED ORANGE */
+    color: #f5a623 !important; /* FORCED ORANGE (Your accent color) */
     font-weight: bold !important;
     text-decoration: underline !important; 
 }
 
 // HOVER STATE: Navy Blue and Underlined
 .post-content.e-content a:hover {
-    color: $brand-color !important; /* FORCED NAVY BLUE on hover */
+    color: #112649 !important; /* FORCED NAVY BLUE on hover */
     font-weight: bold !important;
     text-decoration: underline !important; 
 }

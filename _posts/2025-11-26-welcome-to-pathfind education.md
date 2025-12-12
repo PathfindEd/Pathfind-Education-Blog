@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Launching The Pathfind Education Blog: Your Essential Guide to Studying Abroad"
+title: "Pathfind Education: Your Strategic Blueprint for Studying Abroad"
 date: 2025-11-26 21:59:26 +0800
 categories: [study abroad, international admissions, university selection, education]
-tags: [launch, study abroad, university, strategy, international]
-excerpt: "We are cutting through the confusion of university rankings and general advice to provide you with the exact strategies we use to help students achieve their goals."
+tags: [launch, study abroad, university, strategy, international, pathfind]
+excerpt: "We cut through the confusion of university rankings and general advice to provide you with the exact strategies we use to help students achieve their goals."
+slug: study-abroad-strategic-blueprint
 ---
 
 Hello and welcome to the official Pathfind blog!

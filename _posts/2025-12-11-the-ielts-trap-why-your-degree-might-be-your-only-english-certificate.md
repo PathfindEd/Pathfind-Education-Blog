@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The IELTS Trap: Why Your Degree Might Be Your Only English Certificate"
+title: "IELTS Waiver: Use Medium of Instruction (MOI) to Skip the Test"
 date: 2025-12-11 08:00:00 +0000
 categories: [study abroad, uk admissions, ielts, language requirements]
 tags: [ielts, toefl, medium of instruction, moi, language waiver, admissions]
-excerpt: "If you completed your previous degree in English, you may be able to secure a language requirement waiver for your UK university application, saving you time and money."
+excerpt: "If you completed your degree in English, you may be able to secure a language requirement waiver for your UK university application, saving you time and money and avoiding the IELTS Trap."
+slug: ielts-waiver-moi-letter
 ---
 
 It is a common scenario: a student who completed their entire undergraduate degree taught in English spends valuable time and money preparing for and sitting the IELTS or TOEFL test, only to find out they never needed to.
@@ -43,6 +44,6 @@ Every week, ambitious students book tests they could have easily avoided. This m
 
 If your degree was taught and examined fully in English, you must **always check the specific university's policy** before booking a test.
 
-While MOI waivers are widely accepted, they are not universal. Some highly competitive programmes or universities have strict institutional policies that require an IELTS or equivalent score regardless of your previous study. (If you must take the IELTS, make sure your **[Personal Statement](/how-to-write-a-strong-personal-statement-for-uk-universities/)** still stands strong to secure your place.)
+While MOI waivers are widely accepted, they are not universal. Some highly competitive programmes or universities have strict institutional policies that require an IELTS or equivalent score regardless of your previous study. (If you must take the IELTS, make sure your **[Personal Statement](/uk-personal-statement-guide/)** still stands strong to secure your place.)
 
 At Pathfind Education, we help students confirm precisely which UK universities and specific courses accept the MOI letter *before* you apply. Why sit another proficiency test if your entire degree already proves your English ability?

@@ -14,29 +14,13 @@
 
 // 4. Custom Layout Overrides - SHIFT CONTENT ONLY
 section {
+    /* Keeps the header full-width, shifts content 10% to the right. */
     margin-left: 10% !important; 
     max-width: 90%; 
 }
 
 // 5. Banner Color Override - USING NAVY BLUE #112649
 header {
+    /* Overrides the theme's header color with your primary navy blue */
     background-color: #112649 !important; 
-}
-
-
-// 6. 🏆 THE FINAL OVERRIDE (Forced Hex Codes) 🏆
-// This rule uses the highest specificity and explicit hex codes to bypass any variable or inheritance failures.
-.post-content.e-content a,
-.post-content.e-content a:link,
-.post-content.e-content a:visited,
-.post-content.e-content a:active {
-    color: #f5a623 !important; /* FORCED ORANGE */
-    font-weight: bold !important;
-    text-decoration: underline !important; 
-}
-
-.post-content.e-content a:hover {
-    color: #112649 !important; /* FORCED NAVY BLUE on hover */
-    font-weight: bold !important;
-    text-decoration: underline !important; 
 }

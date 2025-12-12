@@ -5,7 +5,7 @@
     font-size: 1.05rem;
     
     // Explicitly set the base text color for the content block.
-    // We use the brand color to manage the 'inherit' rule.
+    // This is necessary to manage the 'inherit' rule.
     color: #112649 !important; 
 
     h2, h3, h4 {
@@ -51,6 +51,3 @@
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 }
-
-// NOTE: The final link overrides are now located at the bottom of assets/main.css
-// using the highly specific selector '.post-content.e-content a'.

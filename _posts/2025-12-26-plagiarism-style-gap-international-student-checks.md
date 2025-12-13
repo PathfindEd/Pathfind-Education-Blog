@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The Plagiarism Style Gap: The Common Reason for Academic Disciplinary Action"
+title: "The Plagiarism Style Gap: How International Students Fail Academic Integrity Checks"
 date: 2025-12-26 08:00:00 +0000
 categories: [academic integrity, study tips, student success, university prep]
 tags: [plagiarism, citations, academic misconduct, study abroad]
 excerpt: "Academic integrity is not universal. Learn why the 'Plagiarism Style Gap' catches out international students and how to protect your grades."
+permalink: /plagiarism-style-gap-international-student-checks/
 ---
 
 The most common reason for academic disciplinary action against international students is rarely deliberate cheating. It is failing to understand the **Plagiarism Style Gap**.

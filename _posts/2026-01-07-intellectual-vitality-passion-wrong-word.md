@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Why 'Follow Your Passion' Is Dangerous Advice for Students"
+title: "Intellectual Vitality: Why 'Passion' Is the Wrong Word for Elite University Essays"
 date: 2026-01-07 08:00:00 +0000
 categories: [personal statement, academic advice, student strategy, ivy league]
 tags: [intellectual vitality, passion, essay writing, university admissions]
 excerpt: "Stop trying to save the world in your personal statement. Universities are not looking for passion; they are looking for Intellectual Vitality."
+permalink: /intellectual-vitality-passion-wrong-word/
 ---
 
 The most dangerous advice given to high school students is to "follow their passion."

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The Perfect Brief: How to Guide Your Referee to Write a Winning Letter of Recommendation"
+title: "The Perfect LOR Brief: 3 Steps to Guide Your Referee for UK University Success"
 date: 2025-12-17 08:00:00 +0000
 categories: [study abroad, uk admissions, reference letter, academic strategy]
 tags: [LOR, referee, postgraduate, advice, guidance]
 excerpt: "You can't write your own reference, but you must brief your referee strategically. We outline the exact content and context required for UK university success."
+permalink: /perfect-lor-brief-referee-guide/
 ---
 
 You have asked the right person (a respected lecturer or supervisor), but without context, their kind words will fail to secure your place. The best reference letters are not accidental; they are the result of an applicant providing a **perfect brief**.

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Why Most Students Choose the Wrong University (And How to Stop It)"
+title: "Stop Choosing the Wrong University: Prestige vs. Career Alignment in Global Rankings"
 date: 2025-12-29 08:00:00 +0000
 categories: [study abroad, university selection, career planning, student advice]
 tags: [university rankings, admissions, career goals, higher education]
 excerpt: "A good university choice is not about prestige; it is about alignment. Learn why following rankings and TikTok hype can lead to a degree that feels irrelevant."
+permalink: /stop-choosing-wrong-university-career-alignment/
 ---
 
 Students often pick universities for the wrong reasons. They rely on global rankings they do not fully understand, the opinions of friends, or viral social media trends. They look at random "top 10" lists created by marketing agencies rather than academic professionals.

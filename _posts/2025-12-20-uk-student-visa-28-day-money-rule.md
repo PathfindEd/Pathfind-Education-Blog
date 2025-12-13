@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The Funding Trap: Correctly Preparing Financial Evidence for UK University Offers"
+title: "UK Student Visa Money: How to Meet the 28-Day Financial Evidence Rule"
 date: 2025-12-20 08:00:00 +0000
 categories: [study abroad, financial planning, administrative requirements]
 tags: [funding, bank statement, tuition fees, financial proof, compliance]
 excerpt: "The complexity of proving you can afford UK study is the final hurdle for international applicants. We detail the strict document requirements to secure your Confirmation of Acceptance."
+permalink: /uk-student-visa-28-day-money-rule/
 ---
 
 The Confirmation of Acceptance for Studies (CAS) and the final unconditional offer stage hinge on one massive administrative detail: proving you have the funds required for your tuition and living expenses.

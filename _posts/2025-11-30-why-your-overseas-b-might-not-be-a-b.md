@@ -17,7 +17,9 @@ A critical warning for international students: When applying to UK universities,
 UK universities operate on a specific degree classification system that relies less on a continuous GPA and more on weighted averages and final-year performance. Admissions officers convert your grades to this system, often using published or internal equivalency tables.
 
 * **Weighting Differences:** In many systems (e.g., US, Canada), every year/credit contributes heavily to the final GPA. In the UK, **final year/dissertation modules are often weighted most heavily**, meaning an admissions team might mentally adjust your overall score to match this UK focus.
-* **The Crucial UK Classifications:** Most UK postgraduate programmes require a minimum of an Upper Second Class Honours (**2:1**). A mark that falls just shy of this in conversion can reclassify you as a Lower Second Class Honours (**2:2**), which is often insufficient for competitive programmes. (If your grades are borderline, learn how to craft a **[powerful personal statement](/uk-personal-statement-guide/)** to boost your application.)
+* **The Crucial UK Classifications:** Most UK postgraduate programmes require a minimum of an Upper Second Class Honours (**2:1**). A mark that falls just shy of this in conversion can reclassify you as a Lower Second Class Honours (**2:2**), which is often insufficient for competitive programmes.
+
+If your grades are borderline, you must rely on other qualitative factors. You will need to craft a **[powerful personal statement](/uk-personal-statement-guide/)** to argue your case, and ensure your **[Academic Reference](/uk-lor-compliance-admissions-standards/)** explicitly vouches for your potential to handle the workload.
 
 ---
 
@@ -60,4 +62,6 @@ Here's how common scales can lead to problematic conversions when applying to a 
 
 ## Conclusion: Be Proactive, Not Surprised
 
-Small differences in grade conversion rules can have significant consequences for a UK application, particularly the hard line drawn between a 2:1 and a 2:2. **Your assumption is your application's greatest risk.** Be direct: look up the specific equivalency for your country and degree, or use a service like ECCTIS to confirm your standing **before** you apply.
+Small differences in grade conversion rules can have significant consequences for a UK application, particularly the hard line drawn between a 2:1 and a 2:2. **Your assumption is your application's greatest risk.**
+
+Be direct: look up the specific equivalency for your country and degree, or use a service like ECCTIS to confirm your standing **before** you apply. If the conversion is unfavourable, you must ensure your **[Letter of Recommendation](/uk-lor-compliance-admissions-standards/)** is compliant and persuasive enough to bridge the gap.
